@@ -1,0 +1,7 @@
+[project]
+name = "llm-rag-toolkit"
+version = "0.1.0"
+description = "This project is a toolkit for building modular Retrieval-Augmented Generation (RAG) systems. It serves as a practical guide and framework for creating a conversational chatbot that answers questions grounded in a specific knowledge base. To serve as an example, a RAG system indexing and chunking HTML and PDF lecture notes is built."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
